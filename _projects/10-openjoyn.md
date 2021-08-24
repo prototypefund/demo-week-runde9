@@ -3,14 +3,10 @@ layout: project
 title: "OpenJoyn"
 image: /assets/images/project_images/openjoyn/header.jpg
 authors:
-  - author: Aysel Afsar
+  - author: Andreas Picker
     link:
-  - author: Evren Ozkan
+  - author: Simon Deeg
     link:
-  - author: Armin Moehrle
-    link:
-  - author: Sanya Glisic
-    link:
-brief: "Wir geben Menschen Kontrolle über ihre Gesundheitsdaten."
-summary: "Die Würde des Menschen ist antastbar durch unkontrollierten Zugang zu Gesundheitsdaten. Kailona gibt den Menschen Kontrolle über ihre Gesundheitsdaten zurück. Unser Prototyp ermöglicht Entwickler:innen, die Basisplattform mit benutzerdefinierten Gesundheitsdaten zu erweitern"
+brief: "Wir entwickeln eine offene Konstruktionsplattform."
+summary: "Mit OpenJoyn entsteht ein benutzerfreundliches, Open-Source-Softwarewerkzeug mit einer Konstruktionsdatenbank, welches möglichst viele Anwender\*innen befähigt eine Vielzahl unterschiedlicher Holzkonstruktionen für den Alltagsgebrauch individuell anzupassen, die benötigten Bauteile selbstständig einzukaufen und die Konstruktionen aufzubauen."
 ---
