@@ -3,14 +3,16 @@ layout: project
 title: "cooArchi"
 image: /assets/images/project_images/cooarchi/header.jpg
 authors:
-  - author: Aysel Afsar
+  - author:  Jonathan Meyer
     link:
-  - author: Evren Ozkan
+  - author: Kathia von Roth
     link:
-  - author: Armin Moehrle
+  - author: Michael Scholl
     link:
-  - author: Sanya Glisic
+  - author: Luna Nane
     link:
-brief: "Wir geben Menschen Kontrolle über ihre Gesundheitsdaten."
-summary: "Die Würde des Menschen ist antastbar durch unkontrollierten Zugang zu Gesundheitsdaten. Kailona gibt den Menschen Kontrolle über ihre Gesundheitsdaten zurück. Unser Prototyp ermöglicht Entwickler:innen, die Basisplattform mit benutzerdefinierten Gesundheitsdaten zu erweitern"
+  - author: Lukas Fuchsgruber
+    link:
+brief: "Wir schaffen kollaborative Archive für den Kulturbereich."
+summary: "Bei cooarchi geht es um eine technische Unterstützung von Archivpraxis “von unten”, also um Empowerment und Kollaboration."
 ---
