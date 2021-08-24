@@ -8,5 +8,5 @@ authors:
   - author: Simon Deeg
     link:
 brief: "Wir entwickeln eine offene Konstruktionsplattform."
-summary: "Mit OpenJoyn entsteht ein benutzerfreundliches, Open-Source-Softwarewerkzeug mit einer Konstruktionsdatenbank, welches möglichst viele Anwender\*innen befähigt eine Vielzahl unterschiedlicher Holzkonstruktionen für den Alltagsgebrauch individuell anzupassen, die benötigten Bauteile selbstständig einzukaufen und die Konstruktionen aufzubauen."
+summary: "Mit OpenJoyn entsteht ein benutzerfreundliches, Open-Source-Softwarewerkzeug mit einer Konstruktionsdatenbank, welches möglichst viele Anwender*innen befähigt eine Vielzahl unterschiedlicher Holzkonstruktionen für den Alltagsgebrauch individuell anzupassen, die benötigten Bauteile selbstständig einzukaufen und die Konstruktionen aufzubauen."
 ---
