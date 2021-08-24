@@ -1,0 +1,202 @@
+---
+layout: default
+---
+
+<div class="flex-container container landing-hero justify-between">
+  <div class="logo-details">
+    <img src="/assets/images/logo.svg" loading="lazy" alt="PrototypeFund Demo Week Round 8" />
+    <h1 class="pink-border">Prototype</h1>
+    <h1 class="blue-border">Fund</h1>
+  </div>
+  <div class="description">
+    <h3>RUNDE 9</h3>
+    <p>
+      Zum Abschluss der 9. Förderrunde des Prototype Fund findet bereits zum zweiten Mal eine virtuelle Demo Week statt.
+      Vom <b>30 August</b>. bis <b>3. September 2021</b> präsentieren die <b>28 Projekte</b> hier in Form von Texten,
+      Videos, Bildern und natürlich Demos die Softwareprototype, an denen sie in den vergangenen sechs Monaten im Rahmen
+      ihrer Förderung gearbeitet haben.
+      <br /><br />
+      Am <b>Montag (30.08., 18:30)</b> startet die Demo Week mit einer <a href="#keynote1">Eröffnung</a>. In den
+      darauffolgenden Tagen stellen
+      sich die
+      <a href="#project-section">Projekte</a> vor.
+    </p>
+    <div class="round-7">
+      <p>Du suchst die Demo Week der Runde 7 und 8?</p>
+      <a href="http://archive.demoweek.prototypefund.de" target="_blank" rel="noopener">Hier geht es lang</a>
+    </div>
+  </div>
+</div>
+<hr />
+<div class="flex-container video-container container justify-between" id="keynote1">
+  <div class="description">
+    <h2>Eröffnung</h2>
+    <p>Am <b>30.08.</b> startet die Demo Week offiziell mit der Eröffnung ab <b>18:00 Uhr</b>. Euch erwarten neben der
+      Vorstellung der geförderten Projekte eine Keynote von Anna-Verena Nosthoff und Felix Maschewski sowie die
+      Panel-Diskussion “Wir brauchen die Kontrolle - ein Gespräch über Gesundheit, Datenschutz und Open Source” mit
+      Beata Hubrig, Armin Moehrle und Lars Hohl, moderiert von Sandra Mamitzsch.
+    </p>
+    <h2>Keynote</h2>
+    <div class="flex-container justify-start">
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/Anna-Verena Nosthoff.jpg" loading="lazy" alt="Anna-Verena Nosthoff" />
+        <div class="speaker-details">
+          <h4>Anna-Verena Nosthoff</h4>
+          <small>Co-Director Data Politics Lab (HU Berlin)</small>
+        </div>
+      </div>
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/FelixMaschewski.jpg" loading="lazy" alt="Felix Maschewski" />
+        <div class="speaker-details">
+          <h4>Felix Maschewski</h4>
+          <small>INC Amsterdam & Data Politics Lab (HU Berlin)</small>
+        </div>
+      </div>
+    </div>
+    <h2>Panel</h2>
+    <div class="flex-container justify-start">
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/BeataHubrig.jpeg" loading="lazy" alt="Beata Hubrig" />
+        <div class="speaker-details">
+          <h4>Beata Hubrig</h4>
+          <small>Rechtsanwältin Bereich Datenschutz und Urheberrecht</small>
+        </div>
+      </div>
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/AdrianaGroh.png" loading="lazy" alt="Armin Moehrle" />
+        <div class="speaker-details">
+          <h4>Armin Moehrle</h4>
+          <small><a href="https://kailona.org/" target="_blank" rel="noopener noreferrer">Kailona</a></small>
+        </div>
+      </div>
+    </div>
+    <div class="flex-container justify-start">
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/LarsHohl.jpg" loading="lazy" alt="Lars Hohl" />
+        <div class="speaker-details">
+          <h4>Lars Hohl</h4>
+          <small>Information Security Manager</small>
+        </div>
+      </div>
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/SimonWoerpel.jpg" loading="lazy" alt="Sandra Mamitzsch" />
+        <div class="speaker-details">
+          <h4>Sandra Mamitzsch</h4>
+          <small>Moderation, <a href="http://globalinnovationgathering.org" target="_blank" rel="noopener">Global
+              Innovation Gathering e. V.</a></small>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="video">
+    <!--<div class="iframe-container">
+      <iframe src="https://www.youtube-nocookie.com/embed/sjydwaz67yo?start=32" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>-->
+    <img src="/assets/images/video_placeholder.svg" loading="lazy" alt="Placeholder for an upcoming video" />
+  </div>
+</div>
+{% include separator.html %}
+{% assign featured_project = site.projects | sample: 2 %}
+<div class="featured-projects container" id="project-section">
+  <span class="featured-title">
+    Projekt Highlight
+  </span>
+  <div class="flex-container project justify-around align-center">
+    <div class="project-image">
+      {% if featured_project[0].image %}
+      <img src="{{ featured_project[0].image }}" loading="lazy" alt="{{ featured_project[0].title }}" />
+      {% else %}
+      <img src="/assets/images/project_img_placeholder.png" loading="lazy" alt="Placeholder for a project image" />
+      {% endif %}
+    </div>
+    <div class="project-details">
+      <div class="project-authors">
+        {% for author in featured_project[0].authors %}
+        <a {% if author.link %}href="{{ author.link }}" {% endif %}>
+          {{ author.author }}{% if forloop.last != true %}, {% endif %}
+        </a>
+        {% endfor %}
+      </div>
+      <h2 class="project-title">{{ featured_project[0].title }}</h2>
+      <p class="project-brief">
+        {{ featured_project[0].brief }}
+      </p>
+      <p class="project-description">
+        {{ featured_project[0].summary }}
+      </p>
+      <a href="{{ featured_project[0].url }}" class="btn project-btn">View Project</a>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <h2 class="text-left">Alle Projekte</h2>
+  <p class="text-left project-section-desc">
+    Diese 28 Projekte haben wir in der 9. Runde des Prototype Fund mit Mitteln des BMBF von März – August 2021
+    gefördert. Ihr habt Fragen an ein Projekt? Schickt sie an <a
+      href="mailto:demoweek@prototypefund.de">demoweek@prototypefund.de</a> oder twittert sie mit dem
+    Hashtag <span class="hashtag">#prototypedemos</span> - beim Abschlussevent am 30.08. werden die Projekte einige
+    eurer Fragen beantworten.
+  </p>
+  {% for project in site.projects %}
+  {% assign mod = forloop.index | modulo: 2 %}
+  <div class="flex-container project {% if mod == 1%}inverse{% endif %} justify-between">
+    <div class="project-image">
+      <a href="{{ project.url }}" style="line-height: 0;">
+        {% if project.image %}
+        <img src="{{ project.image }}" loading="lazy" alt="{{ project.title }}" />
+        {% else %}
+        <img src="/assets/images/project_img_placeholder.png" loading="lazy" alt="Placeholder for a project image" />
+        {% endif %}
+      </a>
+    </div>
+    <div class="project-details">
+      <div class="project-authors">
+        {% for author in project.authors %}
+        <a {% if author.link %}href="{{ author.link }}" {% endif %}>
+          {{ author.author }}{% if forloop.last != true %}, {% endif %}
+        </a>
+        {% endfor %}
+      </div>
+      <a href="{{ project.url }}">
+        <h2 class="project-title">
+          {{ project.title }}
+        </h2>
+      </a>
+      <p class="project-brief">
+        {{ project.brief }}
+      </p>
+      <a href="{{ project.url }}" class="btn project-btn">View Project</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<img id="scroll-to-top" src="/assets/images/scroll.png" loading="lazy" alt="Scroll to top button"
+  onclick="topFunction()" />
+<script>
+  //Get the button
+  var mybutton = document.getElementById("scroll-to-top");
+
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function () { scrollFunction() };
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
+<script>
+  var projects = {{ site.projects | jsonify }};
+</script>
+<script src="/assets/js/randomFeaturedProject.js"></script>
+<script src="/assets/js/fadeInPage.js"></script>
