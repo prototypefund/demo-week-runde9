@@ -3,9 +3,11 @@ layout: project
 title: "PAID – Pflegeabrechnung in Deutschland"
 image: /assets/images/project_images/paid/header.png
 authors:
-  - author:
+  - author: Michael Kamphausen
     link:
-  - author:
+  - author: Alexander Schmidtpeter
+    link:
+  - author: Tobias Zwick
     link:
 brief: "Wir bauen eine Programmbibliothek für die Abrechnung von Pflege-Dienstleistungen."
 summary: "PAID ist eine freie Softwarekomponente für die digitale Abrechnung von Pflege-Dienstleistungen mit den Pflege- und Krankenkassen."
