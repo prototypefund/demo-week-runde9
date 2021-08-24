@@ -7,6 +7,14 @@ authors:
     link:
   - author: Pauline Grahlmann
     link:
+  - author: Philipp Munzert
+    link:
+  - author: Jakob Schumann
+    link:
+  - author: Frieder Jacobi
+    link:
+  - author: Tina Hoffmann
+    link:
 brief: "Wir bieten Zugänge zum politischen System."
 summary: "„hacking politics online“ hilft, Verständnis für Politik aufzubauen, indem man eigene politische Vorstellungen auf die lokale Ebene herunterbricht und in Form eines Stadtratsantrages strukturiert."
 ---
