@@ -3,13 +3,9 @@ layout: project
 title: "HubGrep"
 image: /assets/images/project_images/hubgrep/9y5NRb5.png
 authors:
-  - author: Aysel Afsar
+  - author: Jan Hartmann
     link:
-  - author: Evren Ozkan
-    link:
-  - author: Armin Moehrle
-    link:
-  - author: Sanya Glisic
+  - author: Henrik Eliasson
     link:
 brief: "Wir sind eine Suchmaschine für Open Source Code."
 summary: "EIN SATZ ÜBER DEIN PROJEKT"
