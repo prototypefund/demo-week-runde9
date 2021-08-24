@@ -3,14 +3,24 @@ layout: project
 title: "Lunes"
 image: /assets/images/project_images/lunes/header.jpg
 authors:
-  - author: Aysel Afsar
+  - author: Lukas Böhm, Julia Götz, Raphael Hepperle, Ulrike Hösl, Daniel Kehne, Stefanie Metzger, Sven Seeberg, Oliver Sieberling, Julia Wohlhüter 
     link:
-  - author: Evren Ozkan
+  - author: Julia Götz
     link:
-  - author: Armin Moehrle
+  - author: Raphael Hepperle
     link:
-  - author: Sanya Glisic
+  - author: Ulrike Hösl
     link:
-brief: "Wir geben Menschen Kontrolle über ihre Gesundheitsdaten."
-summary: "Die Würde des Menschen ist antastbar durch unkontrollierten Zugang zu Gesundheitsdaten. Kailona gibt den Menschen Kontrolle über ihre Gesundheitsdaten zurück. Unser Prototyp ermöglicht Entwickler:innen, die Basisplattform mit benutzerdefinierten Gesundheitsdaten zu erweitern"
+  - author: Daniel Kehne
+    link:
+  - author: Stefanie Metzger
+    link:
+  - author: Sven Seeberg
+    link:
+  - author: Oliver Sieberling
+    link:
+  - author: Julia Wohlhüter 
+    link:
+brief: "Wir vereinfachen das Erlernen von berufsbezogenem Vokabular."
+summary: "Lunes ist eine mobile App, die es ermöglicht berufsspezifisches Vokabular zu erlernen."
 ---
