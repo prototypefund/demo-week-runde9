@@ -5,8 +5,6 @@ image: /assets/images/project_images/matrixconduit/header.png
 authors:
   - author: Timo Kösters
     link:
-  - author: Timo Kösters
-    link:
 brief: "Wir bieten einen sicheren und offenen Chatserver."
 summary: "Conduit ist ein neuer Server für das Matrix Netzwerk, um unabhängig von großen Unternehmen Nachrichten sicher senden zu können."
 ---
