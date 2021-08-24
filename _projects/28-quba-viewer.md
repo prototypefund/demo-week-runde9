@@ -3,7 +3,7 @@ layout: project
 title: "Quba-Viewer"
 image: /assets/images/project_images/quba-viewer/header.png
 authors:
-  - author:
+  - author: Jochen Stärk
     link:
 brief: "Wir vereinfachen die Prüfung von e-Rechnungen."
 summary: "Der Quba-Viewer ist eine Anwendung, um strukturierte e-Rechnungen bildhaft darstellen und ausdrucken zu können."
