@@ -3,9 +3,9 @@ layout: project
 title: "Pleeenum"
 image: /assets/images/project_images/pleenum/header.png
 authors:
-  - author:
+  - author: Azul
     link:
-  - author:
+  - author: Jonas
     link:
 brief: "Wir ermöglichen es Gruppen, ihre digitalen Treffen besser zu organisieren."
 summary: "Mit Pleeenum können selbstorganisierten Gruppen, ihre Treffen in Nextcloud besser organisieren und dokumentieren."
