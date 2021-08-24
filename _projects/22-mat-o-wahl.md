@@ -3,14 +3,9 @@ layout: project
 title: "Mat-O-Wahl"
 image: /assets/images/project_images/mat-o-wahl/header.jpg
 authors:
-  - author: Aysel Afsar
+  - author: Mathias Steudtner
     link:
-  - author: Evren Ozkan
-    link:
-  - author: Armin Moehrle
-    link:
-  - author: Sanya Glisic
-    link:
-brief: "Wir geben Menschen Kontrolle über ihre Gesundheitsdaten."
-summary: "Die Würde des Menschen ist antastbar durch unkontrollierten Zugang zu Gesundheitsdaten. Kailona gibt den Menschen Kontrolle über ihre Gesundheitsdaten zurück. Unser Prototyp ermöglicht Entwickler:innen, die Basisplattform mit benutzerdefinierten Gesundheitsdaten zu erweitern"
+brief: "Wir informieren Wähler\*innen spielerisch, schnell und einfach."
+summary: "Der Mat-o-Wahl ist ein Programm zum Vergleichen von Parteipositionen mit der eigenen Meinung."
+
 ---
