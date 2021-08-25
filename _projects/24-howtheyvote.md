@@ -23,7 +23,7 @@ Mit **HowTheyVote.eu** machen wir die Abstimmungsergebnisse des Europäischen Pa
 
 Stell dir vor, du möchtest auf der offiziellen Webseite des Parlaments mehr über die viel diskutierte [Abstimmung zur europäischen Urheberrechtsreform](https://www.bpb.de/politik/hintergrund-aktuell/287108/eu-urheberrechtsreform) herausfinden. Um die relevanten Informationen zu finden, musst du eigentlich schon ziemlich genau wissen, wo sie zu finden sind. In jedem Fall benötigst du das Datum der Abstimmung. Wir haben uns einmal durch die Parlamentsseiten geklickt und das Ganze im Schnelldurchlauf aufgezeichnet.
 
-<video src="/assets/images/project_images/howtheyvote/screencast.mp4" autoplay controls muted loop></video>
+<video src="/assets/images/project_images/howtheyvote/screencast.mp4" autoplay controls muted></video>
 
 Relevant sind vor allem verschiedene Anhänge der offiziellen Plenarprotokolle. Im [ersten Anhang](<https://www.europarl.europa.eu/RegData/seance_pleniere/proces_verbal/2019/03-26/liste_presence/P8_PV(2019)03-26(VOT)_DE.pdf>)) findet sich eine lange Tabelle. In ihr sind Informationen zu allen Abstimmungen der jeweiligen Sitzungswoche aufgelistet. Der [zweite Anhang](<https://www.europarl.europa.eu/RegData/seance_pleniere/proces_verbal/2019/03-26/liste_presence/P8_PV(2019)03-26(RCV)_XC.pdf>) ist ein sehr langes Dokument, das für jede Abstimmung auflistet, wie die einzelnen Abgeordneten abgestimmt haben. Doch selbst mit diesen Informationen lassen sich einige Fragen nur schwer beantworten, zum Beispiel wie alle deutschen Abgeordneten über die Urheberrechtsreform abgestimmt haben.
 
