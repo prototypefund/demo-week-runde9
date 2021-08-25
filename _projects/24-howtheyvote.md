@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "HowTheyVote.eu"
-image: /assets/images/project_images/howtheyvote/header.jpg
+image: /assets/images/project_images/howtheyvote/header.png
 authors:
   - author: Linus Hagemann
     link:
