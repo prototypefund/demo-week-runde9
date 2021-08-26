@@ -11,6 +11,18 @@ brief: "Mehr kollaborative Apps und Reichweite für OpenAppStack"
 summary: "Wir ermöglichen Organisationen ihre Online-Applikationen dezentral zu hosten und sicher zur Verfügung zu stellen."
 ---
 
+## Sprechstunde
+
+Am **Donnerstag, den 3.9. um 11:30-12:30** bieten wir allen Interessierten an sich mit
+uns in einem Jitsi-Call zu treffen und sich zu Openappstack auszutauschen.
+Habt ihr Interesse, schafft es aber nicht zu diesem Termin ? Dann sprecht uns an
+und wir vereinbaren einen weiteren Termin (siehe [Kontakt](#kontakt)).
+
+<br />
+<a href="https://meet.greenhost.net/openappstack-sprechstunde" class="btn project-btn" target="_blank" rel="noopener noreferrer">Openappstack Sprechstunde</a>
+
+## Mehr kollaborative Apps und Reichweite für OpenAppStack
+
 [OpenAppStack](https://openappstack.net/) (OAS) ist ein freies/Open-Source-Softwareprojekt, welches Nutzer\*innen ermöglicht, Online-Applikationen schnell und einfach in der eigenen Infrastruktur bereitzustellen und zu administrieren. Unser Ziel ist es, nicht-kommerzielle Alternativen zu den großen Online-Diensten für möglichst viele Nutzer\*innen zugänglich zu machen. OAS stellt zivilgesellschaftlichen Organisationen und Einzelpersonen alles bereit, was zur Organisation und Zusammenarbeit benötigt wird. Und das ohne Kompromisse bei den Themen Datensicherheit und Privatsphäre einzugehen.
 
 Im Rahmen der 9. Förderrunde haben wir OAS um neue Applikationen und nützliche Funktionen erweitert. OAS ist nun noch flexibler, da wir die Installation und Pflege der Plattform vereinfacht haben und für mehr Menschen und Organisationen nutzbar, weil wir das System plattformunabhängiger gemacht haben.
@@ -102,7 +114,7 @@ Alles in allem sind wir sehr zufrieden mit dem, was wir in der begrenzten Zeit u
 In ein paar Wochen wird ein **Beta-Test** stattfinden, an dem interessierte
 Organisationen teilnehmen können. Wir stellen euch dann einen Openappstack
 cluster zur Verfügung und ihr könnt OAS testen und uns Feedback geben.
-Bitte schreib uns eine Email (siehe [Kontakt](#Kontakt)) wenn ihr daran Interesse habt.
+Bitte schreib uns eine Email (siehe [Kontakt](#kontakt)) wenn ihr daran Interesse habt.
 
 Wir sind froh einen Teil dazu beigetragen zu haben und blicken mit freudiger Erwartung auf den Launch!
 
