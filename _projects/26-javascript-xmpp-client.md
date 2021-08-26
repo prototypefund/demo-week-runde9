@@ -56,8 +56,8 @@ Ein weiterer wichtiger Schritt ist die Vermittlung des SFU-Dienstes über XMPP. 
 
 ## Veröffentlichungen
 
-Weitere Informationen über JSXC erhalten Sie unter [jsxc.org](https://www.jsxc.org) inklusive einer genaueren Protokollbeschreibung. Sollten Sie unsere Videokonferenzlösung testen wollen, können Sie dies unter [jsxc.org/ptf](jsxc.org/ptf) machen.
-Den Quellcode des Clients sowie des SFU-Vermittlungsdienstes finden Sie unter [github.com/jsxc](github.com/jsxc)
+Weitere Informationen über JSXC erhalten Sie unter [jsxc.org](https://www.jsxc.org) inklusive einer genaueren Protokollbeschreibung. Sollten Sie unsere Videokonferenzlösung testen wollen, können Sie dies unter [jsxc.org/ptf](https://www.jsxc.org/ptf) machen.
+Den Quellcode des Clients sowie des SFU-Vermittlungsdienstes finden Sie unter [github.com/jsxc](https://github.com/jsxc)
 
 ## Fazit
 
