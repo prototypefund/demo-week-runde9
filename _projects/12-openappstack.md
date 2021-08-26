@@ -3,22 +3,13 @@ layout: project
 title: "OpenAppStack"
 image: /assets/images/project_images/openappstack/header.png
 authors:
-  - author: varac
-    link:
-  - author: mark
+  - author: Varac
+    link: https://www.varac.net
+  - author: Mark
     link:
 brief: "Mehr kollaborative Apps und Reichweite für OpenAppStack"
 summary: "Wir ermöglichen Organisationen ihre Online-Applikationen dezentral zu hosten und sicher zur Verfügung zu stellen."
 ---
-
-# Openappstack
-
-Mehr kollaborative Apps und Reichweite für OpenAppStack
-
-![](/assets/images/project_images/openappstack/upload_2d63acc76776aa0f6368e610fafc947a.png)
-_Das jetzige User-Panel Dashboard_
-
-## Motivation
 
 [OpenAppStack](https://openappstack.net/) (OAS) ist ein freies/Open-Source-Softwareprojekt, welches Nutzer\*innen ermöglicht, Online-Applikationen schnell und einfach in der eigenen Infrastruktur bereitzustellen und zu administrieren. Unser Ziel ist es, nicht-kommerzielle Alternativen zu den großen Online-Diensten für möglichst viele Nutzer\*innen zugänglich zu machen. OAS stellt zivilgesellschaftlichen Organisationen und Einzelpersonen alles bereit, was zur Organisation und Zusammenarbeit benötigt wird. Und das ohne Kompromisse bei den Themen Datensicherheit und Privatsphäre einzugehen.
 
@@ -96,7 +87,7 @@ In folgendem Video wollen wir euch das zukünftige Admin-Panel schon mal vorstel
 
 ## Release
 
-Wir haben zum Ende der Förderung ein neue Version veröffentlicht ([0.7.0](https://open.greenhost.net/groups/openappstack/-/milestones/10)). Wie diese installiert werden kann, ist in der ebenfalls aktualisierten [Dokumentation](https://docs.openappstack.net/en/v0.7) beschrieben.
+Wir haben zum Ende der Förderung ein neue Version veröffentlicht (siehe auch den englischen [Openappstack 0.7.0 release blogpost](https://openappstack.net/2021/08/23/Openappstack-0.7.0-release.html)).  Wie diese installiert werden kann, ist in der ebenfalls aktualisierten [Dokumentation](https://docs.openappstack.net/en/v0.7) beschrieben.
 Leider haben es nicht alle Features in dieses Release geschafft. Die Single Sign-On Änderungen und das neue Admin-Panel werden ins nächste Release einfliessen.
 
 ## Fazit und Ausblick
@@ -108,7 +99,21 @@ Alles in allem sind wir sehr zufrieden mit dem, was wir in der begrenzten Zeit u
 
 [Greenhost](https://greenhost.net/) als Haupt-Maintainer des Projektes plant, Openappstack Anfang 2022 im Produktivbetrieb einzusetzen - nicht nur intern sondern auch als Service, der ihren Kund\*innen angeboten wird. Damit ist der Grundstein für eine nachhaltige Weiterentwicklung gelegt und wir hoffen, dass sich Openappstack in naher Zukunft zu einem großen Teil selbst finanzieren wird.
 
+In ein paar Wochen wird ein **Beta-Test** stattfinden, an dem interessierte
+Organisationen teilnehmen können. Wir stellen euch dann einen Openappstack
+cluster zur Verfügung und ihr könnt OAS testen und uns Feedback geben.
+Bitte schreib uns eine Email (siehe [Kontakt](#Kontakt)) wenn ihr daran Interesse habt.
+
 Wir sind froh einen Teil dazu beigetragen zu haben und blicken mit freudiger Erwartung auf den Launch!
+
+## Kontakt
+
+Wer mit uns oder dem Openappstack Projekt in Kontakt bleiben möchte: Auf der [Openappstack contact](https://openappstack.net/contact.html) Seite
+findet ihr unsere **Email Adresse**, unseren öffentlichen **Matrix Chat** und wie ihr
+euch in unseren **Newsletter** eintragen könnt.
+Ihr könnt uns auch gerne direkt kontaktieren:
+
+* [Kontakt Varac](https://www.varac.net/contact)
 
 ## Danke!
 
