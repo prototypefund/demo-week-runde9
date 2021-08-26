@@ -31,7 +31,7 @@ Relevant sind vor allem verschiedene Anhänge der offiziellen Plenarprotokolle. 
 
 Auf HowTheyVote.eu kannst du alle Abstimmungen durchsuchen. Unsere Suchfunktion zeigt dir bereits, während du tippst, Ergebnisse an, sodass du deine Suche gezielt verfeinern kannst.
 
-**SCREENSHOT/GIF: Suchen**
+<video src="/assets/images/project_images/howtheyvote/search.mp4" autoplay loop controls muted></video>
 
 Eine Suche nach dem Schlagwort „Copyright” führt dich direkt zur gesuchten Abstimmung. Mit einem Klick gelangst du auf eine Detailseite.
 
@@ -49,4 +49,5 @@ Wir sind überzeugt, dass es noch viele weitere, interessante Nutzungsmöglichke
 
 Falls du die Daten von HowTheyVote.eu für deine eigenen Projekte verwendest, würden wir uns freuen, von dir zu hören! Und sofern du eine Idee hast, wie HowTheyVote.eu noch hilfreicher werden könnte, eröffne gerne ein Ticket in unserem [GitHub-Repository](https://github.com/HowTheyVote/epvotes) oder schreib uns eine [E-Mail](mailto:mail@howtheyvote.eu) oder auf [Twitter](https://twitter.com/HowTheyVoteEU).
 
-Wir danken dem DLR sowie dem BMBF für die Unterstützung!
+Wir danken dem Team des Prototype Funds und dem DLR für die Unterstützung und Ermöglichung des Projekts, vor allem Marie und Patricia für die nette Betreuung und stets motivierenden Worte. 
+Besonderer Dank gilt [Eileen](https://bumble.blue/), die uns als UI/UX-Coach unterstützt hat.
