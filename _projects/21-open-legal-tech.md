@@ -38,26 +38,38 @@ Während für Schritt 1 und Schritt 2 Fragebögen konfiguriert werden können m�
 Wenn es im ersten Schritt möglich sein soll, zu überprüfen, ob bestimmte Bedingungen erfüllt sind, muss es möglich sein Fragen anzulegen und je nach gegebener Antwort zu anderen Fragen springen zu können.
 
 #### Fragen anlegen
-![screencast Fragen anlegen](/assets/images/project_images/openlegaltech/create_questions.gif "Fragen anlegen")
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/create_questions.mp4" type="video/mp4">
+</video>
 
 #### Abbruchbedingungen festlegen
-![screencast Abbruchbedingungen hinzufügen](/assets/images/project_images/openlegaltech/create_conditions.gif "Abbruchbedingungen hinzufügen")
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/create_conditions.mp4" type="video/mp4">
+</video>
 
 #### Fragebogen anschauen
-![screencast Fragebogen preview](/assets/images/project_images/openlegaltech/preview.gif "Fragebogen preview")
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/preview.mp4" type="video/mp4">
+</video>
 
 ### Anlegen von Dokumenten mit Platzhaltern und Bedingungen
 
 Wenn der Fragebogen erfolgreich durchlaufen wurde und Informationen zum konkreten Fall angegeben wurden, soll es möglich sein, ein Dokument zur Verfügung zu stellen. Je nach der jeweiligen Antwort im Fragebogen zuvor sollen Textbausteine eingefügt oder nicht eingefügt werden. Im Text selber muss es möglich sein, Platzhalter einzufügen, die dann mit der jeweiligen Antwort befüllt werden.
 
 #### Template mit Platzhaltern für die Antwort anlegen
-![screencast Dokument mit Platzhalter](/assets/images/project_images/openlegaltech/add_platzhalter.gif "Dokument mit Platzhalter")
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/add_platzhalter.mp4" type="video/mp4">
+</video>
 
 #### Textblöcke nur bei bestimmten Antworten anzeigen
-![screencast Dokument mit Bedingungen](/assets/images/project_images/openlegaltech/add_text_block_conditions.gif "Dokument mit Bedingungen")
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/add_text_block_conditions.mp4" type="video/mp4">
+</video>
 
 #### Fragebogen mit Dokument als Resultat
-![screencast Dokument mit Bedingungen](/assets/images/project_images/openlegaltech/preview_with_document.gif "Dokument mit Bedingungen")
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/preview_with_document.mp4" type="video/mp4">
+</video>
 
 ## Ausblick und Links
 
