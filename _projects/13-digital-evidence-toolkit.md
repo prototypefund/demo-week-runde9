@@ -1,10 +1,10 @@
 ---
 layout: project
 title: "Digital Evidence Preservation Toolkit"
-image: /assets/images/project_images/digital-evidence-toolkit/header.jpg
+image: /assets/images/project_images/digital-evidence-toolkit/header.png
 authors:
   - author: Basile Simon
-    link:
+    link: https://basilesimon.fr
 brief: "Wir unterstützen und erleichtern die digitale Beweisführung."
 summary: "Ein Proof-of-Concept für Forscher*innen und kleine Teams, die Online-Materialien durchsuchen."
 ---
