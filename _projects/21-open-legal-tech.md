@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Open Legal Tech"
-image: /assets/images/project_images/openlegaltech/header.jpg
+image: /assets/images/project_images/openlegaltech/header_small.jpg
 authors:
   - author: Magdalena
     link:
