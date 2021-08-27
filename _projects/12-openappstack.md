@@ -19,7 +19,7 @@ Habt ihr Interesse, schafft es aber nicht zu diesem Termin ? Dann sprecht uns an
 und wir vereinbaren einen weiteren Termin (siehe [Kontakt](#kontakt)).
 
 <br />
-<a href="https://meet.greenhost.net/openappstack-sprechstunde" class="btn project-btn" target="_blank" rel="noopener noreferrer">Openappstack Sprechstunde</a>
+<a href="https://meet.greenhost.net/openappstack-sprechstunde" class="btn project-btn" target="_blank" rel="noopener noreferrer">OpenAppStack Sprechstunde</a>
 
 ## Mehr kollaborative Apps und Reichweite für OpenAppStack
 
@@ -99,7 +99,7 @@ In folgendem Video wollen wir euch das zukünftige Admin-Panel schon mal vorstel
 
 ## Release
 
-Wir haben zum Ende der Förderung ein neue Version veröffentlicht (siehe auch den englischen [Openappstack 0.7.0 release blogpost](https://openappstack.net/2021/08/23/Openappstack-0.7.0-release.html)).  Wie diese installiert werden kann, ist in der ebenfalls aktualisierten [Dokumentation](https://docs.openappstack.net/en/v0.7) beschrieben.
+Wir haben zum Ende der Förderung ein neue Version veröffentlicht (siehe auch den englischen [Openappstack 0.7.0 release blogpost](https://openappstack.net/2021/08/23/Openappstack-0.7.0-release.html)). Wie diese installiert werden kann, ist in der ebenfalls aktualisierten [Dokumentation](https://docs.openappstack.net/en/v0.7) beschrieben.
 Leider haben es nicht alle Features in dieses Release geschafft. Die Single Sign-On Änderungen und das neue Admin-Panel werden ins nächste Release einfliessen.
 
 ## Fazit und Ausblick
@@ -109,12 +109,12 @@ Die Zusammenarbeit mit anderen Teams an einer gemeinsamen Code-Basis und Upstrea
 
 Alles in allem sind wir sehr zufrieden mit dem, was wir in der begrenzten Zeit umsetzen konnten.
 
-[Greenhost](https://greenhost.net/) als Haupt-Maintainer des Projektes plant, Openappstack Anfang 2022 im Produktivbetrieb einzusetzen - nicht nur intern sondern auch als Service, der ihren Kund\*innen angeboten wird. Damit ist der Grundstein für eine nachhaltige Weiterentwicklung gelegt und wir hoffen, dass sich Openappstack in naher Zukunft zu einem großen Teil selbst finanzieren wird.
+[Greenhost](https://greenhost.net/) als Haupt-Maintainer des Projektes plant, OpenAppStack Anfang 2022 im Produktivbetrieb einzusetzen - nicht nur intern sondern auch als Service, der ihren Kund\*innen angeboten wird. Damit ist der Grundstein für eine nachhaltige Weiterentwicklung gelegt und wir hoffen, dass sich OpenAppStack in naher Zukunft zu einem großen Teil selbst finanzieren wird.
 
 In ein paar Wochen wird ein **Beta-Test** stattfinden, an dem interessierte
-Organisationen teilnehmen können. Wir stellen euch dann einen Openappstack
-cluster zur Verfügung und ihr könnt OAS testen und uns Feedback geben.
-Bitte schreib uns eine Email (siehe [Kontakt](#kontakt)) wenn ihr daran Interesse habt.
+Organisationen teilnehmen können. Wir stellen euch dann einen OpenAppStack
+cluster zur Verfügung und ihr könnt OpenAppStack testen und uns Feedback geben.
+Bitte schreib uns eine Email (siehe [Kontakt](#kontakt)) wenn ihr daran Interesse habt und besucht unsere Sprechstunde am 3. September um mehr zu erfahren.
 
 Wir sind froh einen Teil dazu beigetragen zu haben und blicken mit freudiger Erwartung auf den Launch!
 
