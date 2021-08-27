@@ -14,7 +14,7 @@ summary: "Wir ermöglichen Organisationen ihre Online-Applikationen dezentral zu
 ## Sprechstunde
 
 Am **Donnerstag, den 3.9. um 11:30-12:30** bieten wir allen Interessierten an sich mit
-uns in einem Jitsi-Call zu treffen und sich zu Openappstack auszutauschen.
+uns in einem Jitsi-Call zu treffen und sich zu OpenAppStack auszutauschen.
 Habt ihr Interesse, schafft es aber nicht zu diesem Termin ? Dann sprecht uns an
 und wir vereinbaren einen weiteren Termin (siehe [Kontakt](#kontakt)).
 
