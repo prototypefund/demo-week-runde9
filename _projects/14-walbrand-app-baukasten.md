@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Waldbrand-App-Baukasten"
-image: /assets/images/project_images/waldbrandapp/header.jpg
+image: /assets/images/project_images/waldbrandapp/coverbild.png
 authors:
   - author: Mo Zielinski
     link:
@@ -10,6 +10,8 @@ authors:
 brief: "Wir helfen Feuerwehren, Brände im Wald zuverlässiger zu bekämpfen."
 summary: "Mit dem Waldbrand-App-Baukasten wurde ein Open-Source-Offline-Karten-Toolkit geschaffen, mit dem Feuerwehren nach lokalem Bedarf eine Offline Android Map erstellen können."
 ---
+
+<link rel="stylesheet" href="/assets/css/waldbrandapp.css">
 
 # Waldbrand-App-Baukasten
 
@@ -27,6 +29,8 @@ Zwei weitere Aspekte heben unsere Lösung von den meisten Alternativen ab. Sie i
 
 Wir wollten die Nutzer\*innen bereits projektbegleitend mit einbeziehen und haben frühzeitig mit deren Ansprache begonnen. Damit wollten wir einerseits die grundlegende Problematik validieren und andererseits interessierte Nutzer\*innen finden, die als Beta-Tester\*innen unsere ersten Versionen ausprobierten. Dieses Feedback hat bei der Weiterentwicklung geholfen. In der frühen Projektphase haben wir dadurch beispielsweise auch herausgefunden, dass unsere Lösung sehr niedrigschwellig und ohne große Hürden nutzbar sein müsse. Dies hatte auch Einfluss auf die Wahl der Daten, mit denen wir arbeiten wollten. Nicht nur die App sollte unkompliziert sein, sondern auch die Art und Weise der Datenpflege durch die Feuerwehrleute. Glücklicherweise sind wir bei unserer Recherche auf den Open-Source-Editor MapComplete gestoßen, welcher unser Problem mit OSM und auch das von vielen anderen löst: Einfaches mappen in OSM ohne mühselige Einarbeitung in das Tagging-Schema.
 
+![](/assets/images/project_images/waldbrandapp/editor.jpg)
+
 ## Welche Hürden erlebten wir beim Prototyping?
 
 Auch wenn das Projekt insgesamt sehr gut lief und überwiegend von einer positiven und motivierenden Stimmung getragen wurde, so gab es einige kleine Hürden zu nehmen. Herausfordernd war für uns beispielsweise die Kommunikation mit den Nutzenden, weil wir dadurch verschiedenste Lösungswünsche und Meinungen zur Problemlage erhalten haben, die wir zunächst einordnen mussten. So war es gerade zu Beginn nicht immer ganz leicht, den roten Faden beizubehalten und einen Kompromiss zu finden aus unseren und den Vorstellungen der Nutzer\*innen. Dazu gehört auch die Frage, ob es sinnvoller ist, eine bottom-up oder top-down Strategie in der Kommunikation mit unserer Zielgruppe zu fahren.
@@ -35,8 +39,15 @@ Herausfordernd war zudem die Klärung der Datenlage. Wir können zwar glücklich
 
 ## Wie geht es weiter mit der Waldbrand-App?
 
-![](/assets/images/project_images/waldbrandapp/app.png)
+![](/assets/images/project_images/waldbrandapp/app.png){: .left-image}
 
 Wir haben Feuer gefangen und möchten die Arbeit an dem Waldbrand-App-Baukasten gerne in eine zweite Entwicklungsphase bringen. Aus der Arbeit am Prototypen haben wir neue Projektmeilensteine entwickelt. Dazu gehört beispielsweise eine Version der App für iOS und weitere Datenthemen. Jetzt, nach Ende der Projektlaufzeit, gehen wir in eine Testphase und suchen Nutzer\*innen, die App und Editor eingehend ausprobieren und uns Feedback schicken oder am besten in direkten Austausch mit uns kommen wollen. Da die nächste Förderung noch nicht feststeht, suchen wir ebenfalls Finanzierungsmöglichkeiten durch Verbände, Förderer oder Programme, mit denen wir nach der Testphase weiterarbeiten können.
 
 Wir bedanken uns herzlich beim DLR sowie beim BMBF für die Förderung unseres Projekts.
+
+<div style="clear:both" />
+## Links
+
+* Projekt-Website: [waldbrand-app.de](https://waldbrand-app.de/)
+* App bei Google Play: [Waldbrand Brandenburg](https://play.google.com/store/apps/details?id=de.waldbrandapp.brandenburg)
+* Kontakt: [team@waldbrand-app.de](mailto:team@waldbrand-app.de)
