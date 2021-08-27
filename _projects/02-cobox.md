@@ -52,9 +52,9 @@ Nach einigen Stunden des Kopfzerbrechens, einigen Gesprächen mit dem Prototype-
 
 ![](/assets/images/project_images/cobox/iwbPgB1.png)
 
-Den Bericht über unseren nutzerzentrierten Design-Workshop finden Sie hier. (**Link einfügen**)
+Den Bericht über unseren nutzerzentrierten Design-Workshop finden Sie [hier](https://cobox.cloud/web/peer-discovery-report.pdf).
 
-Unsere überarbeitete Serie von User Stories finden Sie hier. (**Link einfügen**)
+Unsere überarbeitete Serie von User Stories finden Sie [hier](https://cobox.cloud/web/health-check-user-stories.pdf).
 
 ### Implementierung
 
