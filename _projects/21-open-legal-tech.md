@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Open Legal Tech"
-image: /assets/images/project_images/openlegaltech/header.jpg
+image: /assets/images/project_images/openlegaltech/header_small.jpg
 authors:
   - author: Magdalena
     link:
@@ -13,7 +13,7 @@ summary: "Die Software bietet die Möglichkeit, einfache Rechtsberatungsprozesse
 
 ## Die Idee …
 
-Kommunikation von Behörden mit Bürger*innen orientiert sich regelmäßig an Erfordernissen der Verwaltungen, nicht aber an den Bürger/*innen selbst. Dies führt dazu, dass beispielsweise Bescheide von Arbeitsämtern oder Ordnungsämtern für die Betroffenen häufig unverständlich und ohne Jura-Studium kaum zu beantworten sind.
+Kommunikation von Behörden mit Bürger\*innen orientiert sich regelmäßig an Erfordernissen der Verwaltungen, nicht aber an den Bürger\*innen selbst. Dies führt dazu, dass beispielsweise Bescheide von Arbeitsämtern oder Ordnungsämtern für die Betroffenen häufig unverständlich und ohne Jura-Studium kaum zu beantworten sind.
 
 Idee ist es daher, einfache Rechtsberatungsprozesse automatisierbar zu machen und online anzubieten. Im kommerziellen Bereich gibt es bereits verschiedene Online-Anwendungen, die automatisiert rechtliche Dokumente für Betroffene erstellen. Beispiele sind automatisiert erstellte Einsprüche gegen Strafzettel für zu schnelles Fahren oder Entschädigungsforderungen gegenüber Fluggesellschaften, wenn der Flug ausgefallen ist. Die Rechtsberatung dieser einfachen Fälle erfolgt hier mithilfe eines Online-Fragebogens.
 
@@ -37,17 +37,39 @@ Während für Schritt 1 und Schritt 2 Fragebögen konfiguriert werden können m�
 
 Wenn es im ersten Schritt möglich sein soll, zu überprüfen, ob bestimmte Bedingungen erfüllt sind, muss es möglich sein Fragen anzulegen und je nach gegebener Antwort zu anderen Fragen springen zu können.
 
-![screencast Fragebogen anlegen](/assets/images/project_images/openlegaltech/frageboegen_anlegen.gif "Fragebogen anlegen")
+#### Fragen anlegen
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/create_questions.mp4" type="video/mp4">
+</video>
 
-![screencast Fragebogen preview](/assets/images/project_images/openlegaltech/fragebogen_preview.gif "Fragebogen preview")
+#### Abbruchbedingungen festlegen
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/create_conditions.mp4" type="video/mp4">
+</video>
+
+#### Fragebogen anschauen
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/preview.mp4" type="video/mp4">
+</video>
 
 ### Anlegen von Dokumenten mit Platzhaltern und Bedingungen
 
 Wenn der Fragebogen erfolgreich durchlaufen wurde und Informationen zum konkreten Fall angegeben wurden, soll es möglich sein, ein Dokument zur Verfügung zu stellen. Je nach der jeweiligen Antwort im Fragebogen zuvor sollen Textbausteine eingefügt oder nicht eingefügt werden. Im Text selber muss es möglich sein, Platzhalter einzufügen, die dann mit der jeweiligen Antwort befüllt werden.
 
-![screencast Dokument mit Platzhalter](/assets/images/project_images/openlegaltech/document_mit_platzhalter.gif "Dokument mit Platzhalter")
+#### Template mit Platzhaltern für die Antwort anlegen
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/add_platzhalter.mp4" type="video/mp4">
+</video>
 
-![screencast Dokument mit Bedingungen](/assets/images/project_images/openlegaltech/document_mit_bedingungen.gif "Dokument mit Bedingungen")
+#### Textblöcke nur bei bestimmten Antworten anzeigen
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/add_text_block_conditions.mp4" type="video/mp4">
+</video>
+
+#### Fragebogen mit Dokument als Resultat
+<video autoplay loop muted playsinline>
+  <source src="/assets/images/project_images/openlegaltech/preview_with_document.mp4" type="video/mp4">
+</video>
 
 ## Ausblick und Links
 
