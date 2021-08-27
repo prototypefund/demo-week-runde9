@@ -15,6 +15,10 @@ summary: "Mit dem Waldbrand-App-Baukasten wurde ein Open-Source-Offline-Karten-T
 
 # Waldbrand-App-Baukasten
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/RlYVsuKxKYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Worum geht es im Projekt?
 
 Der Wald als klassischer Offline-Raum stellt Einsatzkräfte der Feuerwehr trotz 4G und digitalem Geodatenportal vor Herausforderungen. Anders als in der Stadt fehlt es im naturnahen Raum an zuverlässigem Internet. Der Waldbrand-App-Baukasten hilft Feuerwehren in bewaldeten Bereichen Brände zuverlässiger zu bekämpfen, indem einsatzspezifische Informationen leicht abgerufen werden können. Dafür entwickelten wir ein Open-Source-Offline-Karten-Toolkit, mit dem Feuerwehren nach lokalem Bedarf eine Offline Android Map erstellen können. Unter fachlicher Beratung haben wir einen ersten App Prototypen für den Raum Brandenburg entwickelt, der sich an den relevanten Informationen der Waldbrandschutzkarte orientiert. Neben der App gibt es auch einen Online Editor, mit dem Wasserentnahmestellen bearbeitet und hinzugefügt werden können.
@@ -48,6 +52,6 @@ Wir bedanken uns herzlich beim DLR sowie beim BMBF für die Förderung unseres P
 <div style="clear:both" />
 ## Links
 
-* Projekt-Website: [waldbrand-app.de](https://waldbrand-app.de/)
-* App bei Google Play: [Waldbrand Brandenburg](https://play.google.com/store/apps/details?id=de.waldbrandapp.brandenburg)
-* Kontakt: [team@waldbrand-app.de](mailto:team@waldbrand-app.de)
+- Projekt-Website: [waldbrand-app.de](https://waldbrand-app.de/)
+- App bei Google Play: [Waldbrand Brandenburg](https://play.google.com/store/apps/details?id=de.waldbrandapp.brandenburg)
+- Kontakt: [team@waldbrand-app.de](mailto:team@waldbrand-app.de)

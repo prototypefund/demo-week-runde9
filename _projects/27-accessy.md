@@ -11,6 +11,10 @@ brief: "Wir verhelfen Menschen mit Sehbehinderung zu mehr Mobilität."
 summary: "Accessy stellt mit einer App und einer offenen API barrierefreie Routen für Menschen mit Sehbeeinträchtigung bereit."
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/CJ11fJXwn2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Das Problem
 
 Blinde Menschen sind in fremden Umgebungen auf Hilfe angewiesen. Normalerweise wird ihnen ein Weg mehrmals von Freund\*innen oder Assistenzdiensten gezeigt. Erst danach können sie diesen Weg eigenständig ablaufen. Der Nachteil ist, dass es sich nur um diesen einen Weg handelt. Man kann also nicht wirklich von einer Auflösung dieser Barriere sprechen.

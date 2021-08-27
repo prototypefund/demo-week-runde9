@@ -9,6 +9,10 @@ brief: "Wir machen die Entwicklung von KI-Technologien zu einem partizipatorisch
 summary: "MIGR-AI-TION ist eine Forschungsplattform über Migrationserfahrungen und ein Bildungsinstrument über KI-Voreingenommenheit."
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/ED1hNes3YiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 MIGR-AI-TION ist eine Plattform, die sich mit den Problemen des Technologiesektors befasst. Diese Probleme lassen sich grob unter dem Oberbegriff "Datenkolonialismus" zusammenfassen und umfassen Themen wie Bias bei KI-Anwendungen, unsichtbare Arbeit und extraktiven Kapitalismus. Mit einem Hintergrund in interdisziplinärer Kunst und Medien und angewandter Anthropologie begann ich mit der Idee, KI-Prozesse als Methoden und Werkzeuge für die Beteiligung der Öffentlichkeit umzugestalten.
 
 Auf der Grundlage von Hintergrundrecherchen zu laufenden ausbeuterischen KI-Praktiken wie biometrischen Experimenten und dem Training von Computer Vision in Flüchtlingsarbeitslagern, unterbezahlter Plattformarbeit (z. B. “Mechanical Turk”) sowie der zunehmenden Überwachung von Migrant\*innen und Randgruppen beschloss ich, dass das Ergebnis dieses Projekts ein einfacher Bilddatensatz sein sollte, der von Migrant\*innen erstellt wurde, um die Öffentlichkeit über ihre Erfahrungen zu informieren und KI-Forscher\*innen über Vorurteile aufzuklären, und der in einer späteren Entwicklungsphase zum Training von Bilderkennungsmodellen verwendet werden könnte.

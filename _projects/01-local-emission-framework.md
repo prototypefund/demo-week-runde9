@@ -16,7 +16,7 @@ summary: "Aktuell entwickeln viele Städte unabhängig voneinander eigene Strate
 ---
 
 <div class="iframe-container">
-    <iframe src="https://www.youtube-nocookie.com/embed/Du1JZxloFrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube-nocookie.com/embed/RRDSlwYsFEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Sprechstunde
