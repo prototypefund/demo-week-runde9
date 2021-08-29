@@ -8,12 +8,10 @@ authors:
   - author: Henrik Eliasson
     link:
 brief: "Wir sind eine Suchmaschine für Open Source Code."
-summary: "EIN SATZ ÜBER DEIN PROJEKT"
+summary: "HubGrep erstellt einen Index verschiedener Hosting Services, um eine Suchmaschine zur Verfügung zu stellen."
 ---
 
 # HubGrep im Prototype Fund
-
-![hobgrebbit](/assets/images/project_images/hubgrep/9y5NRb5.png)
 
 ## Open-Source-Projekte finden
 
@@ -82,4 +80,4 @@ Einige APIs stellen mehr Informationen bereit als andere, deshalb kennen wir bei
 Alles in allem sind wir an einem guten Ausgangspunkt, HubGrep größeren Mehrwert zu geben, als "nur" Daten aus APIs zu indexen, und "nur" eine Suchmaschine zu sein.
 Es könnte eine Landkarte der Open Source Welt sein.
 
-Wir danken dem DLR und dem BMBF für die Unterstützung während der letzten sechs Monate!
+Wir danken dem DLR, dem BMBF und dem Prototype Fund für das Vertrauen und die Unterstützung während der letzten sechs Monate!
