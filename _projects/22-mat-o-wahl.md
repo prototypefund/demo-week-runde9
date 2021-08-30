@@ -27,23 +27,9 @@ Im Laufe der folgenden Jahre und Monate wurde der Mat-o-Wahl dann verstärkt an 
 
 Spätestens ab diesem Zeitpunkt war klar, dass es einen Bedarf für einen einfachen Open-Source-Wahl-o-Maten gibt. Zusätzlich entbrannte auch mein persönlicher Ehrgeiz das Programm zu verbessern sowie mit dem aktuellen Stand der Technik mitzuhalten.
 
-<div class="splide">
-	<div class="splide__arrows">
-		<button class="splide__arrow splide__arrow--prev">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-		<button class="splide__arrow splide__arrow--next">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-	</div>
-	<div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild201%20-%20Version%202-2.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild202%20-%20Version%205-1.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild203%20-%20Version%206-0.png"></li>
-		</ul>
-	</div>
-</div>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild201%20-%20Version%202-2.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild202%20-%20Version%205-1.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild203%20-%20Version%206-0.png"></li>
 
 ## Wer braucht das System?
 
@@ -72,67 +58,25 @@ Im PTF wurden einige neue Funktionen zum Mat-o-Wahl hinzugefügt.
 
 In den älteren Versionen wurden am Ende alle Fragen wieder angezeigt. Darunter konnte man die jeweilige Antwort der Partei einblenden. Es fehlte aber eine Möglichkeit sich eine _einzelne Partei auszuwählen und nur ihre dazugehörigen Antworten anzuzeigen_.
 
-<div class="splide">
-	<div class="splide__arrows">
-		<button class="splide__arrow splide__arrow--prev">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-		<button class="splide__arrow splide__arrow--next">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-	</div>
-	<div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-01%20-%20Version%205-1.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-02%20-%20Version%206-0%20Fragen.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-03%20-%20Version%206-0%20Parteien.png"></li>
-		</ul>
-	</div>
-</div>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-01%20-%20Version%205-1.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-02%20-%20Version%206-0%20Fragen.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-03%20-%20Version%206-0%20Parteien.png"></li>
 
 ### 2) Verbesserte Erweiterung: Mehrere (gleichzeitige) Wahlen filtern
 
 Es gibt Einsatzfälle, in denen man den Mat-o-Wahl mit den _gleichen Fragen für verschiedene „Wahlen_“ ausstatten möchte. Das könnte z. B. die gleichzeitige Wahl zum _Stadtrat und Bürgermeister\*in_ sein oder auch eine Wahl in _mehreren Stadteilen (Nord, Ost, Süd, West)_. In diesem Fall erhalten alle Kandidat\*innen die gleichen Fragen, aber die Nutzer\*innen können in der Ergebnisübersicht filtern, wen sie sehen möchten.
 
-<div class="splide">
-	<div class="splide__arrows">
-		<button class="splide__arrow splide__arrow--prev">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-		<button class="splide__arrow splide__arrow--next">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-	</div>
-	<div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-01%20-%20Alle%20Ergebnisse.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-02%20-%20Buergermeister.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-03%20-%20Suedfruechte.png"></li>
-      <li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-04%20-%20Runde%20Fruechte.png"></li>
-		</ul>
-	</div>
-</div>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-01%20-%20Alle%20Ergebnisse.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-02%20-%20Buergermeister.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-03%20-%20Suedfruechte.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-04%20-%20Runde%20Fruechte.png"></li>
 
 ### 3) Neue Erweiterung: Vorabfrage zur Lieblingspartei
 
 Laut Wahl-o-Mat-Begleitforschung nutzen über die Hälfte der Teilnehmer\*innen das Werkzeug um ihren eigenen Standpunkt zu überprüfen. In diesem Arbeitspaket sollte deshalb eine _Vorabfrage_ erstellt werden, bei der die Nutzer ihre _„Lieblingspartei“ auswählen_. Diese Auswahl wird _am Ende wieder farblich hervorgehoben_. So sieht man, wie nah (oder auch weit) die eigene Präferenz von der Realität abweicht.
 
-<div class="splide">
-	<div class="splide__arrows">
-		<button class="splide__arrow splide__arrow--prev">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-		<button class="splide__arrow splide__arrow--next">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40"><path d="m15.5 0.932-4.3 4.38 14.5 14.6-14.5 14.5 4.3 4.4 14.6-14.6 4.4-4.3-4.4-4.4-14.6-14.6z"></path></svg>
-		</button>
-	</div>
-	<div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-01%20-%20Vorabfrage.png"></li>
-			<li class="splide__slide"><img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-02%20-%20Ergebnisse.png"></li>
-		</ul>
-	</div>
-</div>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-01%20-%20Vorabfrage.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-02%20-%20Ergebnisse.png"></li>
 
 ### 4) Optische Verbesserungen
 
