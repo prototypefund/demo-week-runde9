@@ -16,10 +16,14 @@ Der Mat-o-Wahl ist ein Programm (bzw. ein Umfrage-Werkzeug) zum Vergleichen von 
 ## Warum das Ganze?
 
 Der Mat-o-Wahl (MOW) orientiert sich am _Wahl-O-Mat_ der "Bundeszentrale für politische Bildung" (bpb). Der originale Wahl-O-Mat ist urheberrechtlich geschützt und technisch recht komplex, was den Einsatz im "kleinen Rahmen" erschwert.
+
 Andere Wahl-o-Mat-Systeme – häufig zu Landtags- und Bundestagswahlen – arbeiten oft servergestützt (z. B. PHP, MySQL/MariaDB) oder nutzen verschachtelte Konfigurationsdateien (JSON) und/oder veröffentlichen keinen Quellcode.
+
 Deshalb entstand vor über zehn Jahren, im Jahr 2009, die erste Version des Mat-o-Wahl.
+
 Die ursprüngliche Idee war, digitale Wahlthemen auch digital abzufragen.(Datenschutz, Urheberrecht, Internetsperren, Transparenz in der Verwaltung, usw.) Die digitalen Themen haben es 2009 schließlich auf die Agenda geschafft und damit hätte das Thema Mat-o-Wahl im Prinzip erledigt sein können.
 Im Laufe der folgenden Jahre und Monate wurde der Mat-o-Wahl dann verstärkt an Hochschulen und bei lokalen Wahlen eingesetzt. Nun kamen Anfragen und Verbesserungsideen von Nutzer\*innen aus allen Richtungen.
+
 Spätestens ab diesem Zeitpunkt war klar, dass es einen Bedarf für einen einfachen Open-Source-Wahl-o-Maten gibt. Zusätzlich entbrannte auch mein persönlicher Ehrgeiz das Programm zu verbessern sowie mit dem aktuellen Stand der Technik mitzuhalten.
 
 <div class="splide">
@@ -43,7 +47,9 @@ Spätestens ab diesem Zeitpunkt war klar, dass es einen Bedarf für einen einfac
 ## Wer braucht das System?
 
 Auf „kleiner“ Ebene - in den _Städten, Landkreisen oder Universitäten_ - wissen die Wähler\*innen oft nicht, wofür ihre Kandidat\*innen stehen (z. B. Umgehungsstraße oder Umweltschutz, sozialer Wohnungsbau, soziale Brennpunkte, neue KiTa, neue Schulden? Ja/Nein?). Ähnlich verhält es sich bei Landtags- und Bundestagswahlen, wenn man den Fokus auf ein spezielles Thema richten möchte (z. B. Wo stehen die Parteien im Bereich Verkehrswende, Inklusion oder Lärmschutz.).
+
 Demgegenüber stehen _politikinteressierte Menschen / Vereine_, welche diese Informationen transparent darstellen wollen. Aber ihnen fehlt ein Werkzeug - wie ein Wahl-o-Mat - um viele Wahlberechtigte schnell, einfach und spielerisch zu informieren.
+
 Der Mat-o-Wahl ist dieses Werkzeug und schließt damit die Lücke zwischen beiden Gruppen.
 
 ## Wie funktioniert es?
@@ -130,8 +136,10 @@ Laut Wahl-o-Mat-Begleitforschung nutzen über die Hälfte der Teilnehmer\*innen 
 ### 4) Optische Verbesserungen
 
 Im Zuge der anderen Punkte wurde auch Wert auf Verbesserungen in der Optik und _Nutzer\*innenfreundlichkeit_ gelegt. Dazu hat der Prototype Fund einige Coachings mit UX-Spezialist\*innen vermittelt. Dabei kam z. B. heraus, dass die bisherigen Auswahl-Buttons zu „unruhig“ waren und durch ihre Farben schon eine gewisse Vorauswahl provozieren.
-Mat-O-Wahl - Bild64-01 - Version 5-1.png
-Mat-O-Wahl - Bild64-02 - Version 6-0.png
+
+![Mat-O-Wahl - Bild64-01 - Version 5-1.png](/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild64-01%20-%20Version%205-1.png)
+![Mat-O-Wahl - Bild64-02 - Version 6-0.png](/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild64-02%20-%20Version%206-0.png)
+
 Des Weiteren wurde unter der Haube an der _Barrierefreiheit_ geschraubt. Die Navigation mit der Tastatur und das Vorlesen mittels Screenreader sind wichtige Punkte um allen Menschen Zugang zu Informationen zu gewähren.
 
 ### 5) Allgemeine Verbesserungen
@@ -161,11 +169,15 @@ Zu den Jury-Mitgliedern gehörten Vertreter\*innen von Medien, Start-Up-Firmen, 
 ## Wie geht es weiter?
 
 Der Mat-o-Wahl ist _komplett einsatzbereit_ - aber nicht „fertig“.
+
 Das heißt, dass _alle wichtigen Funktionen bereit stehen und auch funktionieren_. Es gibt aber immer wieder _neue Ideen_, was man hier und da noch verbessern und verändern kann. Das hat auch der PTF gezeigt, bei dem neue Wünsche zu Tage kamen. Diese werden nun Schritt für Schritt angegangen.
 
 ## Klingt gut. Kann ich helfen?
 
 Ja, jederzeit gern.
+
 Der Quelltext steht auf Github [https://github.com/msteudtn/Mat-O-Wahl/](https://github.com/msteudtn/Mat-O-Wahl/) für alle frei verfügbar und ist gut dokumentiert. Der Mat-o-Wahl ist außerdem unter der Open-Source-Lizenz GPL lizenziert.
+
 Wenn es dann noch Detailfragen gibt, können wir uns gern auf ein echtes oder ein virtuelles Bier zusammensetzen.
-Viele Dank an das BMBF und DLR für die Unterstützung!
+
+Viele Dank auch an das BMBF und DLR für die Unterstützung!
