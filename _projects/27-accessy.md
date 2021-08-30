@@ -5,8 +5,6 @@ image: /assets/images/project_images/accessy/header.png
 authors:
   - author: Michael Helmbrecht
     link:
-  - author:
-    link:
 brief: "Wir verhelfen Menschen mit Sehbehinderung zu mehr Mobilität."
 summary: "Accessy stellt mit einer App und einer offenen API barrierefreie Routen für Menschen mit Sehbeeinträchtigung bereit."
 ---
