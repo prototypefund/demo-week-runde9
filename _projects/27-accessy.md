@@ -21,6 +21,12 @@ Blinde Menschen sind in fremden Umgebungen auf Hilfe angewiesen. Normalerweise w
 
 Kartendienste von namenhaften Anbietern helfen an dieser Stelle auch nicht weiter. Sie beinhalten keine Informationen zu Bürgersteigen, Ampeln etc. und sind damit nur für sehende Menschen ausgelegt.
 
+# Persönliche Motivation
+
+Im Sommer 2019 hatte ich im Rahmen eines Service Design Prozesses für ein Verkehrsunternehmen ein Interview mit einer blinden Studentin. Sie wohnte nicht in dieser Stadt und erzählte mir, dass sie nur den Weg vom Bahnhof zu ihrer Universität kennt. Dieser Weg wurde ihr einige Male von einem Assistenzdienst gezeigt. Ansonsten konnte sie sich nicht frei in der Stadt bewegen.
+
+Ich war in diesem Moment fassungslos, dass es noch keine digitale Lösung gibt, die eine freie Mobilität für blinde Menschen ermöglicht. Auch 6 Monate später hat mich dieses Problem nicht losgelassen und ich habe mich an eine Lösung gesetzt.
+
 # Die Lösung
 
 Accessy versucht dieses Problem auf mehrere Arten zu lösen. Zum einen über eine iOS App und zum anderen über eine Serveranwendung.
@@ -50,6 +56,14 @@ Außerdem ist noch eine [iOS SDK](https://github.com/NeoGolightly/AccessySwiftSD
 Die Open-Source-Anwendung Accessy ist aber nicht nur für iOS ausgelegt. Über eine REST Schnittstelle kann jeder mit Accessy interagieren.
 
 Ich bedanke mich beim BMBF sowie dem DLR für die Förderung des Projektes und die Unterstützung in der Umsetzung.
+
+
+# Zukunft
+Accessy hat es in den 6 Monaten Förderzeit noch nicht in den Beta-Status geschafft. Dieser Release ist für Ende Oktober geplant. Ich freue mich schon darauf die App mit User:innen testen und ihre Vorschläge einbauen zu können. 
+
+Nach einer erfolgreichen Beta-Phase geht es dann an die Verbreitung der App. Ich hoffe, dass ich viele Städte und Assistenzdienste für mein Projekt gewinnen kann und so eine breites Angebot an Routen für blinde Menschen entsteht. Den Anfang wird dabei sicher meine Heimatstadt Goslar bilden.
+
+Ein großer Dank gilt dem Bundesministerium für Bildung und Forschung und dem Deutschen Zentrum für Luft- und Raumfahrt, die dieses Projekt erst ermöglicht haben. Und zuletzt natürlich an den Prototype Fund, der durch seine tolle Betreuung ein wundervolles Arbeitsumfeld geschaffen hat.
 
 ### Weitere Informationen
 
