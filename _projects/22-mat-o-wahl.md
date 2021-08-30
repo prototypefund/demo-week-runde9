@@ -27,9 +27,9 @@ Im Laufe der folgenden Jahre und Monate wurde der Mat-o-Wahl dann verstärkt an 
 
 Spätestens ab diesem Zeitpunkt war klar, dass es einen Bedarf für einen einfachen Open-Source-Wahl-o-Maten gibt. Zusätzlich entbrannte auch mein persönlicher Ehrgeiz das Programm zu verbessern sowie mit dem aktuellen Stand der Technik mitzuhalten.
 
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild201%20-%20Version%202-2.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild202%20-%20Version%205-1.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild203%20-%20Version%206-0.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild201%20-%20Version%202-2.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild202%20-%20Version%205-1.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild203%20-%20Version%206-0.png">
 
 ## Wer braucht das System?
 
@@ -58,18 +58,18 @@ Im PTF wurden einige neue Funktionen zum Mat-o-Wahl hinzugefügt.
 
 In den älteren Versionen wurden am Ende alle Fragen wieder angezeigt. Darunter konnte man die jeweilige Antwort der Partei einblenden. Es fehlte aber eine Möglichkeit sich eine _einzelne Partei auszuwählen und nur ihre dazugehörigen Antworten anzuzeigen_.
 
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-01%20-%20Version%205-1.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-02%20-%20Version%206-0%20Fragen.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-03%20-%20Version%206-0%20Parteien.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-01%20-%20Version%205-1.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-02%20-%20Version%206-0%20Fragen.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild61-03%20-%20Version%206-0%20Parteien.png">
 
 ### 2) Verbesserte Erweiterung: Mehrere (gleichzeitige) Wahlen filtern
 
 Es gibt Einsatzfälle, in denen man den Mat-o-Wahl mit den _gleichen Fragen für verschiedene „Wahlen_“ ausstatten möchte. Das könnte z. B. die gleichzeitige Wahl zum _Stadtrat und Bürgermeister\*in_ sein oder auch eine Wahl in _mehreren Stadteilen (Nord, Ost, Süd, West)_. In diesem Fall erhalten alle Kandidat\*innen die gleichen Fragen, aber die Nutzer\*innen können in der Ergebnisübersicht filtern, wen sie sehen möchten.
 
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-01%20-%20Alle%20Ergebnisse.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-02%20-%20Buergermeister.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-03%20-%20Suedfruechte.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-04%20-%20Runde%20Fruechte.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-01%20-%20Alle%20Ergebnisse.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-02%20-%20Buergermeister.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-03%20-%20Suedfruechte.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild62-04%20-%20Runde%20Fruechte.png">
 
 ### 3) Neue Erweiterung: Vorabfrage zur Lieblingspartei
 
