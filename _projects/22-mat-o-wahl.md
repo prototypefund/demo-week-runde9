@@ -75,8 +75,8 @@ Es gibt Einsatzfälle, in denen man den Mat-o-Wahl mit den _gleichen Fragen für
 
 Laut Wahl-o-Mat-Begleitforschung nutzen über die Hälfte der Teilnehmer\*innen das Werkzeug um ihren eigenen Standpunkt zu überprüfen. In diesem Arbeitspaket sollte deshalb eine _Vorabfrage_ erstellt werden, bei der die Nutzer ihre _„Lieblingspartei“ auswählen_. Diese Auswahl wird _am Ende wieder farblich hervorgehoben_. So sieht man, wie nah (oder auch weit) die eigene Präferenz von der Realität abweicht.
 
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-01%20-%20Vorabfrage.png"></li>
-<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-02%20-%20Ergebnisse.png"></li>
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-01%20-%20Vorabfrage.png">
+<img src="/assets/images/project_images/mat-o-wahl/Mat-O-Wahl%20-%20Bild63-02%20-%20Ergebnisse.png">
 
 ### 4) Optische Verbesserungen
 
