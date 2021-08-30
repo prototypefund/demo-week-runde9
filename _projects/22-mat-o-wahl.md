@@ -91,7 +91,7 @@ In den älteren Versionen wurden am Ende alle Fragen wieder angezeigt. Darunter 
 
 ### 2) Verbesserte Erweiterung: Mehrere (gleichzeitige) Wahlen filtern
 
-Es gibt Einsatzfälle, in denen man den Mat-o-Wahl mit den _gleichen Fragen für verschiedene „Wahlen_“ ausstatten möchte. Das könnte z. B. die gleichzeitige Wahl zum _Stadtrat und Bürgermeister\*in_ sein oder auch eine Wahl in _mehreren Stadteilen (Nord, Ost, Süd, West)_. In diesem Fall erhalten alle Kandidat\*innen die gleichen Fragen aber die Nutzer\*innen können in der Ergebnisübersicht filtern, wen sie sehen möchten.
+Es gibt Einsatzfälle, in denen man den Mat-o-Wahl mit den _gleichen Fragen für verschiedene „Wahlen_“ ausstatten möchte. Das könnte z. B. die gleichzeitige Wahl zum _Stadtrat und Bürgermeister\*in_ sein oder auch eine Wahl in _mehreren Stadteilen (Nord, Ost, Süd, West)_. In diesem Fall erhalten alle Kandidat\*innen die gleichen Fragen, aber die Nutzer\*innen können in der Ergebnisübersicht filtern, wen sie sehen möchten.
 
 <div class="splide">
 	<div class="splide__arrows">
