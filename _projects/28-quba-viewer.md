@@ -24,7 +24,7 @@ Vorteil von XML-Rechnungen sind beispielsweise die Möglichkeit, automatisch nac
 Die Phase der bloßen <em>Digitalisierung</em> der Rechnungen wird allmählich abgelöst durch eine Phase der <em>Strukturierung</em> der Daten.
 
 Reine XML-Daten kann aber wiederum kein Mensch prüfen.
-![XML-Quelltext einer E-Rechnung](/assets/images/project_images/quba-viewer/screenshot2.png "XML-Quelltext einer E-Rechnung")
+![XML-Quelltext einer E-Rechnung](/assets/images/project_images/quba-viewer/screenshot1.png "XML-Quelltext einer E-Rechnung")
 
 Und leider versteht auch noch nicht jede Buchhaltungssoftware jedes XML-Format. Daher machen hybride Formate Sinn und übergangsweise werden Anzeigeprogramme gebraucht, die aus den maschinenlesbaren XML-Daten wieder menschenlesbare und anzeigbare Rechnungen machen.
 
