@@ -35,25 +35,23 @@ Dank der Förderung durch den Prototype Fund konnte ich fast alle notwendigen Fe
 
 Eines der wichtigsten Aufgaben war es, Nachrichten an andere Server weiterzuleiten und von anderen zu empfangen. Dies wirkt auf den ersten Blick einfach, aber ein dezentrales Netzwerk wie Matrix muss sehr vorsichtig mit Daten von anderen Servern umgehen.
 
-Nehmen wir an, es gibt drei Server: A, B und C. Die\*Der Besitzer\*in von Server A möchte Verwirrung stiften und teilt Server B mit, dass sie\*er eine\*n Nutzer\*in gebannt hat. Gleichzeitig sagt sie\*er zu Server C die\*der Nutzende habe nur seinen Namen geändert. Damit dies nicht zu einem Konflikt führt, gibt es in Matrix einen komplizierten Algorithmus namens “State Resolution”. Wenn Server B und C miteinander sprechen, bemerken sie, dass es einen Konflikt gibt. Nun werden alle "Versionen" des Raums genommen und nach festen, deterministischen Regeln die "korrekte" Version bestimmt. So werden sich alle Server bald einig, dass die\*der Nutzende gebannt wurde.
+Nehmen wir an, es gibt drei Server: A, B und C. Server A möchte Verwirrung stiften und teilt Server B mit, dass eine Person gebannt wurde. Gleichzeitig sagt er zu Server C diese Person habe nur seinen Namen geändert. Damit dies nicht zu einem Konflikt führt, gibt es in Matrix einen komplizierten Algorithmus namens “State Resolution”. Wenn Server B und C miteinander sprechen, bemerken sie, dass es einen Konflikt gibt. Nun werden alle "Versionen" des Raums genommen und nach festen, deterministischen Regeln zu einer "korrekten" Version zusammengeführt. So werden sich alle Server bald einig, dass die Person gebannt wurde.
 
-Viel Zeit wurde verwendet, um diesen Algorithmus in Conduit zu implementieren und alle Fehler zu beseitigen.
+Viel Zeit wurde verwendet, um diesen Algorithmus in Conduit zu implementieren und alle Fehler zu beseitigen. Dazu wurden viele andere notwendige Funktionen implementiert und sowohl Speichernutzung als auch CPU-Belastung stark optimiert.
 
-Dazu wurden viele andere notwendige Funktionen implementiert und sowohl Speichernutzung als auch CPU-Belastung stark optimiert.
-
-Conduit ist nun in der Beta-Phase. Man kann das Programm schon als Synapse Ersatz verwenden, aber es gibt noch kleine Probleme, sodass es noch nicht für jede\*n geeignet ist.
+Conduit ist nun in der Beta-Phase. Man kann das Programm schon als Synapse-Ersatz verwenden, aber es gibt noch kleine Probleme, sodass es noch nicht für jede\*n geeignet ist.
 
 ## Persönliche Erfahrungen in der Open-Source-Community
 
 Conduit ist ein Open-Source-Projekt mit einer aktiven Community. Ich bin sehr dankbar dafür, dass eine Rust-Bibliothek für Matrix namens Ruma entwickelt und aktiv auf meine Anfragen hin verbessert wurde. Ruma ist eine wichtige Grundlage für Conduit.
 
-Während meine Aufgabe die Implementierung von Conduit war, halfen mir einige Personen freiwillig bei kleineren Problemen. Der erste Code für die “State Resolution” wurde von einem Contributor geschrieben und mehrere arbeiteten an der Dokumentation oder bei automatischen Tests.
+Während der Großteil der Implementierung von mir erstellt wurde, halfen mir einige Personen freiwillig bei kleineren Problemen. Der erste Code für die “State Resolution” wurde von einem Contributor geschrieben und mehrere arbeiteten an der Dokumentation oder bei automatischen Tests.
 
 Hier ist mir aber auch klar geworden, dass das nicht immer so hilfreich ist, wie es klingt. Es dauert sehr lange, den Code einer anderen Person zu lesen, zu verstehen und zu bewerten. Es ist nicht leicht, Fehler zu entdecken, aber diese immer freundlich mitzuteilen, ist manchmal schwer.
 
 Oft stand ich vor der Entscheidung, ob ich selber die nötigen Änderungen vornehmen sollte, damit ich schneller voran komme, oder ob ich der anderen Person die Fehler und Lösungsvorschläge ausführlich erklären sollte, damit diese Person lernt und hoffentlich noch öfter hilft.
 
-Dennoch ist die Open-Source-Community der Grund, warum mir das Arbeiten an Conduit noch so viel Spaß macht wie am Anfang. Interessante Diskussionen und positive Rückmeldungen zu neuen Entwicklungen haben mich sehr motiviert.
+Dennoch ist die Open-Source-Community der Grund, warum mir das Arbeiten an Conduit weiterhin so viel Spaß macht wie am Anfang. Interessante Diskussionen und positive Rückmeldungen zu neuen Entwicklungen haben mich sehr motiviert.
 
 ---
 
