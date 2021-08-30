@@ -15,4 +15,4 @@ summary: "Bei cooarchi geht es um eine technische Unterstützung von Archivpraxi
     <iframe src="https://www.youtube-nocookie.com/embed/9qZtgqVCRmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Mehr Infos auf www.coarchi.net.
+Mehr Infos auf [www.coarchi.net] (<https://www.cooarchi.net/>).
