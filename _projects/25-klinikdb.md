@@ -3,7 +3,13 @@ layout: project
 title: "Klinik-DB"
 image: /assets/images/project_images/klinikdb/header.png
 authors:
-  - author:
+  - author: Ulf Köther
+    link:
+  - author: Malte Schubert
+    link:
+  - author: Steven Rentzsch
+    link:
+  - author: Philipp Molitor
     link:
 brief: "Wir sind die offene, maschinenlesbare Krankenhausdatenbank."
 summary: "Klinik-DB bereitet gesellschaftlich relevante Informationen zur deutschen Kliniklandschaft in maschinenlesbarer, strukturierter und nutzer*innenfreundlicher Form auf."
