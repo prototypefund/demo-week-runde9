@@ -8,12 +8,10 @@ authors:
   - author: Henrik Eliasson
     link:
 brief: "Wir sind eine Suchmaschine für Open Source Code."
-summary: "EIN SATZ ÜBER DEIN PROJEKT"
+summary: "HubGrep erstellt einen Index verschiedener Hosting Services, um eine Suchmaschine zur Verfügung zu stellen."
 ---
 
 # HubGrep im Prototype Fund
-
-![hobgrebbit](/assets/images/project_images/hubgrep/9y5NRb5.png)
 
 ## Open-Source-Projekte finden
 
@@ -29,7 +27,7 @@ Es gibt also einiges zu verbessern.
 
 ## Wir stellen vor: HubGrep!
 
-![Search with HubGrep](/assets/images/project_images/hubgrep/d0yy3ih.gif)
+<video src="/assets/images/project_images/hubgrep/hubgrep_intro.mp4" autoplay controls muted loop></video>
 
 Mit [HubGrep](https://hubgrep.io/) bauen wir eine Suchmaschine, die ihren Fokus auf Open-Source-Projekte legt und die Ergebnisse verschiedener Hoster kombiniert - ohne dass die Größe oder Bekanntheit des Hosters Einfluss auf das Ranking hat.
 
@@ -43,7 +41,7 @@ Erst zu einer anderen Website gehen zu müssen, anstatt die Standard-Suchmaschin
 
 Zum Glück haben die meisten Browser eine Funktion, neue Suchmaschinen mit einem bestimmten Keyword zu verknüpfen.
 
-![search with a keyword](/assets/images/project_images/hubgrep/oKDGzB5.gif)
+<video src="/assets/images/project_images/hubgrep/keyword_search.mp4" autoplay controls muted loop></video>
 
 Zum Beispiel kannst du im Browser ein Keyword `h` mit der Url `https://hubgrep.io/` verknüpfen. Wenn du dann `h software dingsbums` aufrufst, wirst du direkt zu deinen Suchergebnissen auf hubgrep.io gebracht. Den Schritt, erst auf die Website zu gehen, sparst du also.
 
@@ -82,4 +80,4 @@ Einige APIs stellen mehr Informationen bereit als andere, deshalb kennen wir bei
 Alles in allem sind wir an einem guten Ausgangspunkt, HubGrep größeren Mehrwert zu geben, als "nur" Daten aus APIs zu indexen, und "nur" eine Suchmaschine zu sein.
 Es könnte eine Landkarte der Open Source Welt sein.
 
-Wir danken dem DLR und dem BMBF für die Unterstützung während der letzten sechs Monate!
+Wir danken dem DLR, dem BMBF und dem Prototype Fund für das Vertrauen und die Unterstützung während der letzten sechs Monate!
