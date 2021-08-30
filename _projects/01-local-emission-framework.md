@@ -79,13 +79,12 @@ Im “Ziele & Maßnahmen” Widget können Städte ihre Ziele zum Thema Klimasch
 Auf Basis der Daten des Deutschen Wetterdiensts haben wir für die allermeisten Städte in Deutschland Wetterdaten der letzten Jahrzehnte aufbereitet. Diese können als Warming Stripes oder Klimadiagramme dargestellt werden. Die Nutzer\*innen haben außerdem die Möglichkeit, Parameter der Darstellung interaktiv zu verändern und können so die historischen Wetterdaten selbst erkunden.
 
 <div>
-
-    <iframe src="https://portal.emission-framework.org/embeddedWidget/611fbde81d2241269010ef58/2/default/sansSerif"
+<iframe src="https://portal.emission-framework.org/embeddedWidget/611fbde81d2241269010ef58/2/default/sansSerif"
             style="width: 100%; min-height: 570px;"></iframe>
 </div>
 <br>
 <div>
-    <iframe src="https://portal.emission-framework.org/embeddedWidget/611fbde81d2241269010ef58/3/default/sansSerif"
+  <iframe src="https://portal.emission-framework.org/embeddedWidget/611fbde81d2241269010ef58/3/default/sansSerif"
             style="width: 100%; min-height: 680px;"></iframe>
 </div>
 
