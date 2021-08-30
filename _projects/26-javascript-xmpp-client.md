@@ -5,8 +5,6 @@ image: /assets/images/project_images/jxmppc/header.png
 authors:
   - author: Klaus Herberth
     link:
-  - author:
-    link:
 brief: "Wir haben ein offenes und föderales Video- und Audiokonferenztool entwickelt."
 summary: "Der JavaScript XMPP Client ermöglicht Videotelefonie in JSXC."
 ---
