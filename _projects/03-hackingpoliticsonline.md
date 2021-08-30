@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Hacking Politics Online"
-image: /assets/images/project_images/kailona/header.jpg
+image: /assets/images/project_images/hackingpoliticsonline/header.png
 authors:
   - author: Norbert Rost
     link:

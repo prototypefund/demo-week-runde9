@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Pleeenum"
-image: /assets/images/project_images/pleenum/header.png
+image: /assets/images/project_images/pleeenum/header.png
 authors:
   - author: Azul
     link:
@@ -46,19 +46,19 @@ Um sicherzustellen, dass die ganze Gruppe Zugriff auf die Protokolle hat, haben 
 
 Diesen Wissensspeicher haben wir um Unterseiten erweitert - etwa zur Abbildung von AGs - oder um alle Protokolle an einem Ort zu sammeln. Wir haben die App wirklich kollaborativ gemacht, indem neue und umbenannte Seiten automatisch sofort allen Teilnehmenden angezeigt werden. Auch die Live-Verfolgung von Änderungen im Dokument wurde verbessert. Gemeinsames Arbeiten in einem Kollektiv soll Spaß machen und flüssig von der Hand gehen.
 
-<video src="/assets/images/project_images/pleenum/pagelist.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/pleeenum/pagelist.mp4" autoplay controls muted loop width=800></video>
 Unterseiten ermöglichen ein besseres Strukturieren des gemeinsamen Wissens. Änderungen anderer werden gleich mit angezeigt.
 
 Das Verlinken von Seiten per Drag&Drop ermöglicht schnelle und unkomplizierte Querverweise. So wollen wir es erleichtern, gemeinsam gewonnenes Wissen besser zu strukturieren und Verbindungslinien zu ziehen.
 
 Bereits bei analogen Treffen haben sich Protokollvorlagen als hilfreich erwiesen, eine gemeinsam erarbeitete Struktur beizubehalten. In Nextcloud Collectives ermöglichen Protokollvorlagen, digitale Treffen besser zu strukturieren, diese Struktur zu reflektieren und weiterzuentwickeln.
 
-<video src="/assets/images/project_images/pleenum/template.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/pleeenum/template.mp4" autoplay controls muted loop width=800></video>
 Zu Beginn des Treffens wird das Protokoll auf Basis der Vorlage angelegt. Die Teilnehmenden können dann aktuelle Themen per drag & drop in der Agenda verlinken.
 
 Indem die abgelegten Protokolle allen Mitgliedern eines Kollektivs leicht zugänglich sind, können getroffene Entscheidungen später besser nachvollzogen werden. Das Protokoll erfasst den Verlauf des Treffens, während konkrete Änderungen direkt in den Themenseiten eingepflegt werden.
 
-<video src="/assets/images/project_images/pleenum/backlinks.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/pleeenum/backlinks.mp4" autoplay controls muted loop width=800></video>
 Mit Backlinks - also eine Liste der Seiten, die auf die Themenseite verweisen - kann nachvollzogen werden, bei welchen Treffen über ein bestimmtes Thema gesprochen wurde.
 
 Insgesamt schaffen wir damit eine Umgebung, welche im gesamten Prozess (Vorbereitung, Durchführung und Nachbereitung/Dokumentation) eines Treffens genutzt werden kann.

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Mat-O-Wahl"
-image: /assets/images/project_images/mat-o-wahl/header.jpg
+image: /assets/images/project_images/mat-o-wahl/header.png
 authors:
   - author: Mathias Steudtner
     link:

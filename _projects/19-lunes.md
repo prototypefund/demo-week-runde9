@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Lunes"
-image: /assets/images/project_images/lunes/header.jpg
+image: /assets/images/project_images/lunes/header.png
 authors:
   - author: Lukas Böhm, Julia Götz, Raphael Hepperle, Ulrike Hösl, Daniel Kehne, Stefanie Metzger, Sven Seeberg, Oliver Sieberling, Julia Wohlhüter
     link:
@@ -28,3 +28,5 @@ summary: "Lunes ist eine mobile App, die es ermöglicht berufsspezifisches Vokab
 <div class="iframe-container">
     <iframe src="https://www.youtube-nocookie.com/embed/cHPja7OLKks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Lunes ist eine mobile App, die es ermöglicht berufsspezifisches Vokabular zu erlernen. Ohne großen Aufwand kann Lunes direkt nach dem Herunterladen produktiv genutzt werden, da bereits branchen- und berufsbezogene Stammwortschätze enthalten sind. In verschiedenen Modulen finden sich zahlreiche bebilderte Fachvokabeln mit ergänzender Vorlesefunktion. Als begleitende App, die das Lernen in individuellem Tempo ermöglicht, kann Lunes aber auch um eigene Vokabeln erweitert werden. Durch verschiedene Übungsformen (Multiple-Choice, Üben von Artikeln oder ganze Wörter schreiben) wird das Lernen und Behalten der Vokabeln gefördert und macht gleichzeitig Spaß.
