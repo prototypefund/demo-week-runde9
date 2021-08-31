@@ -55,9 +55,9 @@ Die Open-Source-Anwendung Accessy ist aber nicht nur für iOS ausgelegt. Über e
 
 Ich bedanke mich beim BMBF sowie dem DLR für die Förderung des Projektes und die Unterstützung in der Umsetzung.
 
-
 # Zukunft
-Accessy hat es in den 6 Monaten Förderzeit noch nicht in den Beta-Status geschafft. Dieser Release ist für Ende Oktober geplant. Ich freue mich schon darauf die App mit User:innen testen und ihre Vorschläge einbauen zu können. 
+
+Accessy hat es in den 6 Monaten Förderzeit noch nicht in den Beta-Status geschafft. Dieser Release ist für Ende Oktober geplant. Ich freue mich schon darauf die App mit User:innen testen und ihre Vorschläge einbauen zu können.
 
 Nach einer erfolgreichen Beta-Phase geht es dann an die Verbreitung der App. Ich hoffe, dass ich viele Städte und Assistenzdienste für mein Projekt gewinnen kann und so eine breites Angebot an Routen für blinde Menschen entsteht. Den Anfang wird dabei sicher meine Heimatstadt Goslar bilden.
 
@@ -65,7 +65,7 @@ Ein großer Dank gilt dem Bundesministerium für Bildung und Forschung und dem D
 
 ### Weitere Informationen
 
-[www.accessy.city](www.accessy.city)
+[www.accessy.city](https://www.accessy.city)
 
 Twitter: [@accessyapp](https://twitter.com/accessyapp)
 

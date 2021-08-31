@@ -13,7 +13,7 @@ summary: "Feminizidmap hilft dabei Femi(ni)zide, also Morde an Frauen aufgrund i
 
 ## Hintergrund
 
-> "Der Begriff Femi(ni)zid bezieht sich auf Tötungen von Frauen\* und Mädchen\* durch Männer. Diese finden im Kontext hierarchischer Machtverhältnisse statt, in denen die getöteten Subjekte – Frauen/Mädchen – eine untergeordnete Position innerhalb der Machtstruktur einnehmen." (https://feminizidmap.org/de/ueber/)
+> "Der Begriff Femi(ni)zid bezieht sich auf Tötungen von Frauen\* und Mädchen\* durch Männer. Diese finden im Kontext hierarchischer Machtverhältnisse statt, in denen die getöteten Subjekte – Frauen/Mädchen – eine untergeordnete Position innerhalb der Machtstruktur einnehmen." [https://feminizidmap.org/de/ueber/](https://feminizidmap.org/de/ueber/)
 
 In den letzten Jahren findet der Begriff des Femizids bzw. des Feminizids (nachfolgend Femi(ni)zid) auch in Deutschland immer mehr mediale Verwendung. Vor allem um die eigentliche Tat in verharmlosenden Begriffen wie "Beziehungstat" oder "Eifersuchtsdrama" herauszustellen: Mord. Durch bestehende (patriarchale) Machtstrukturen ermöglichte Morde an Frauen sind ein weltweit verbreitetes Problem.
 

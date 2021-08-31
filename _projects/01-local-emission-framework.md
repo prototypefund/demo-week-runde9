@@ -14,6 +14,7 @@ authors:
 brief: "Wir verhelfen Kreisen, Städten und Kommunen zu einer effizienten Kommunikation ihrer Klimastrategien."
 summary: "Aktuell entwickeln viele Städte unabhängig voneinander eigene Strategien zur Umsetzung der vom Bund vereinbarten Klimaziele. Das Local Emission Framework (LEF) bietet ein Open Source Portal zur Visualisierung."
 ---
+
 <style>
 /* Bei kleinen Screens, mach nix */
 .hackKlasse {
@@ -37,6 +38,7 @@ justify-content: center
 <div style="display: flex; justify-content: center">
 <a href="https://portal.emission-framework.org" class="btn project-btn" target="_blank" rel="noopener noreferrer">Zum Portal</a>
 </div>
+
 ## Sprechstunde
 
 Ihr wollt mit uns über das Local Emission Framework sprechen? Dann schaut gerne am 03.09. zwischen 13 und 14 Uhr online bei uns vorbei.
@@ -45,7 +47,6 @@ Ihr wollt mit uns über das Local Emission Framework sprechen? Dann schaut gerne
 <div style="display: flex; justify-content: center">
 <a href="https://wwu.zoom.us/j/64834704386?pwd=NGl1b29qYXg0c2RBVStZaE1ZZXI1dz09" class="btn project-btn" target="_blank" rel="noopener noreferrer">Zoom Sprechstunde</a>
 </div>
-
 
 ## Klimaschutz vor deiner Haustür
 
@@ -60,7 +61,7 @@ Um Fragen wie diese schnell und auf einen Blick beantworten zu können, haben wi
 
 ## Portal und Embedding
 
-Das LEF gibt es als Portal und als eingebettete Version. Wer sich einfach einen Überblick über mehrere Städte verschaffen möchte, kann dies am Handy oder im Browser auf [portal.emission-framework.org](portal.emission-framework.org) tun. Außerdem haben Städte die Möglichkeit, die gleichen Informationen auf ihren Webseiten einzubetten.
+Das LEF gibt es als Portal und als eingebettete Version. Wer sich einfach einen Überblick über mehrere Städte verschaffen möchte, kann dies am Handy oder im Browser auf [portal.emission-framework.org](https://portal.emission-framework.org) tun. Außerdem haben Städte die Möglichkeit, die gleichen Informationen auf ihren Webseiten einzubetten.
 
 Unser Portal ist nach Leitfragen organisiert. Alle Abschnitte (sogenannte Widgets) bieten Informationen zu einer Frage:
 
@@ -72,7 +73,6 @@ Im “Ziele & Maßnahmen” Widget können Städte ihre Ziele zum Thema Klimasch
 	<h4>Ziele & Maßnahmen Osnabrück</h4>
     	<iframe src="https://portal.emission-framework.org/embeddedWidget/610bc2ccc72d6f2984f807ae/1/default/sansSerif" style="min-height: 700px; width:100%"></iframe>
 </div>
-
 
 ### Weather Widget und Warming Stripes
 
@@ -90,7 +90,7 @@ Auf Basis der Daten des Deutschen Wetterdiensts haben wir für die allermeisten 
 
 ### Daten hinzufügen
 
-Um es Verantwortlichen in Kommunen und Kreisen möglichst einfach zu machen, ihre Informationen einzutragen und aktuell zu halten, haben wir das ganze Portal nach dem “What you see is what you get”-Prinzip gestaltet. So lassen sich neue Ziele mit wenigen Klicks hinzufügen und veröffentlichen. Jede Stadt kann in ihrem von uns freigeschalteten Account ihre Region verwalten und entscheiden, welche Informationen dargestellt werden sollen. Es gibt außerdem die Möglichkeit in benutzerdefinierten Widgets eigene Daten hochzuladen und darzustellen. 
+Um es Verantwortlichen in Kommunen und Kreisen möglichst einfach zu machen, ihre Informationen einzutragen und aktuell zu halten, haben wir das ganze Portal nach dem “What you see is what you get”-Prinzip gestaltet. So lassen sich neue Ziele mit wenigen Klicks hinzufügen und veröffentlichen. Jede Stadt kann in ihrem von uns freigeschalteten Account ihre Region verwalten und entscheiden, welche Informationen dargestellt werden sollen. Es gibt außerdem die Möglichkeit in benutzerdefinierten Widgets eigene Daten hochzuladen und darzustellen.
 
 <div class="iframe-container">
     <iframe src="https://www.youtube-nocookie.com/embed/SGUHclEaHbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -116,19 +116,22 @@ Im Rahmen der Projektlaufzeit des Prototype Fund haben wir sehr viel Hintergrund
 </div>
 
 ## Was wir über Klimaschutz gelernt haben
+
 - In Sachen Klimaschutz gibt es viele sehr engagierte und motivierte Leute, die in vielen guten Projekten arbeiten, von denen man leider oft nicht so viel mitbekommt (es sei denn man sucht explizit danach). Fast alle freuen sich über etwas Aufmerksamkeit.
-- Die Ziele für Paris 2030 sind ambitioniert und in vielen Städten ist noch nicht klar was konkret unternommen werden muss, um diese zu erreichen. 
-- Ob wir wollen oder nicht: Um 1.5 und auch 2 Grad zu halten müssen wir uns vor Ort um Klimaschutz kümmern. 
+- Die Ziele für Paris 2030 sind ambitioniert und in vielen Städten ist noch nicht klar was konkret unternommen werden muss, um diese zu erreichen.
+- Ob wir wollen oder nicht: Um 1.5 und auch 2 Grad zu halten müssen wir uns vor Ort um Klimaschutz kümmern.
 - 230 Seiten lange Klimaschutzkonzepte reichen nicht aus, wenn die Bevölkerung nicht Bescheid weiß und mitmacht.
 - Es kommen zwar große Veränderungen auf uns zu, diese werden aber auch zu saubereren und lebenswerteren Städten und Komunen führen. So stay positive!
 
 ## Was wir über Softwareentwicklung gelernt haben
-- Vier Personen ist eine gute Größe für ein Entwicklungsteam. 
-- Klare Verantwortungsbereiche und Zwischenziele machen Teams super schnell. 
+
+- Vier Personen ist eine gute Größe für ein Entwicklungsteam.
+- Klare Verantwortungsbereiche und Zwischenziele machen Teams super schnell.
 - Ohne regelmäßigen Austausch kommt man nicht vorwärts.
 - Über 6 Monate kann sich ein Projekt dramatisch verändern.
 
 ## Danke an
+
 Patricia, Marie & Anette und alle vom Prototype Fund & DLR, den DWD, das BmBF, die [Klimaheroes](https://klimaheroes.de/) und [Klimawatch](https://klimawatch.de/) aus Münster & unsere Muttis.
 
 ## Blick in den Maschinenraum
