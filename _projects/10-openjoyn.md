@@ -22,13 +22,13 @@ Mit OPENJYON haben wir ein benutzerfreundliches, Softwarewerkzeug mit einer Kons
 
 ![](/assets/images/project_images/openjoyn/OPENJYON_Bild_Website_PrototypeFund_Knoten.jpg)
 ![](/assets/images/project_images/openjoyn/joint360.png)
-![](/assets/images/project_images/OPENJYON_Bild_Website_PrototypeFund_Couchtisch.jpg)
+![](/assets/images/project_images/openjoyn/OPENJYON_Bild_Website_PrototypeFund_Couchtisch.jpg)
 
 Auf einer Onlineplattform können diese Konstruktionen ausgewählt und parametrisch auf den Individuellen Bedarf angepasst werden, z. B. für einen Stehtisch am Homeoffice-Arbeitsplatz. Anschließend werden Einkaufs- und Aufbaupläne generiert, welche Anwender\*innen durch den regionalen Einkauf der Teile und die Montage der individualisierten Konstruktion leiten.
 
 [OPENJOYN TOOL](https://openjoyn.milz.studio)
 
-![](/assets/images/project_images/OPENJYON_Bild_Aufbau.jpg)
+![](/assets/images/project_images/openjoyn/OPENJYON_Bild_Aufbau.jpg)
 
 
 
