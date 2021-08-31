@@ -28,7 +28,7 @@ Auf einer Onlineplattform können diese Konstruktionen ausgewählt und parametri
 ![](/assets/images/project_images/openjoyn/OPENJYON_Bild_Website_PrototypeFund_Couchtisch.jpg)
 ![](/assets/images/project_images/openjoyn/OPENJYON_Bild_Aufbau.jpg)
   
-[OPENJOYN TOOL](https://openjoyn.milz.studio)
+[Link zum Tool: OPENJOYN](https://openjoyn.milz.studio)
 
 
 
