@@ -3,12 +3,12 @@ layout: project
 title: "OPENJOYN"
 image: /assets/images/project_images/openjoyn/header.png
 authors:
-  - author: studio milz 
+  - author: Simon Deeg
     link: https://milz.studio
   - author: Andreas Picker
-    link:
-    - author: Simon Deeg
-    link:
+    link: https://milz.studio
+  - author: studio milz 
+    link: https://milz.studio
 brief: "Wir entwickeln eine offene Konstruktionsplattform."
 summary: "Mit OpenJoyn entsteht ein benutzerfreundliches, Softwarewerkzeug mit einer Konstruktionsdatenbank, welches möglichst viele Anwender*innen befähigt eine Vielzahl unterschiedlicher Holzkonstruktionen für den Alltagsgebrauch individuell anzupassen, die benötigten Bauteile selbstständig einzukaufen und die Konstruktionen aufzubauen."
 ---
