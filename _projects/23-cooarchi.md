@@ -3,7 +3,7 @@ layout: project
 title: "cooArchi"
 image: /assets/images/project_images/cooarchi/header.png
 authors:
-- author:  Jonathan Meyer
+  - author: Jonathan Meyer
     link:
   - author: Kathia von Roth
     link:
