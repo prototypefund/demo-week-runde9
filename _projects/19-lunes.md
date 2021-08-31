@@ -3,7 +3,7 @@ layout: project
 title: "Lunes"
 image: /assets/images/project_images/lunes/header.png
 authors:
-  - author: Lukas Böhm, Julia Götz, Raphael Hepperle, Ulrike Hösl, Daniel Kehne, Stefanie Metzger, Sven Seeberg, Oliver Sieberling, Julia Wohlhüter
+  - author: Lukas Böhm
     link:
   - author: Julia Götz
     link:
